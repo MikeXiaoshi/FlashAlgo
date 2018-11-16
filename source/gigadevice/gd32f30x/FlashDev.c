@@ -21,7 +21,7 @@
  * $Date:        23. April 2015
  * $Revision:    V1.00
  *  
- * Project:      Flash Device Description for GigaDevice GD32F10x Flash
+ * Project:      Flash Device Description for GigaDevice GD32F30x Flash
  * --------------------------------------------------------------------------- */
 
 /* History:

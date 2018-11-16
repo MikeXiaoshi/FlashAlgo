@@ -160,3 +160,6 @@ projects:
     cc3220sf:
         - *module_tools
         - records/projects/ti/cc3220sf.yaml
+    gd32f30x_1M:
+        - *module_tools
+        - records/projects/gigadevice/gd32f30x_1M.yaml
